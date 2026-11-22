@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "stack.h"
+#include "dslib/stack.h"
 
 using namespace std;
 
