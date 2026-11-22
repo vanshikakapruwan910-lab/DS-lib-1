@@ -1,5 +1,5 @@
 #include <iostream>
-#include "array.hpp"
+#include "dslib/array.hpp"
 using namespace std;
 
 int main()

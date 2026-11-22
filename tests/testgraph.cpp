@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "graph.h"
+#include "dslib/graph.h"
 
 int main()
 {
