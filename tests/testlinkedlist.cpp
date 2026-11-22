@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "linkedlist.h"
+#include "dslib/linkedlist.h"
 
 using namespace std;
 
